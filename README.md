@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satriyoaji&label=Profile%20views&color=0e75b6&style=flat" alt="satriyoaji" /> </p>
 
-- 🔭 I’m currently working on (http://stucel.com/) [(as Backend Engineer)]
+- 🔭 I’m currently working on (http://stucel.com/) (as Backend Engineer)
 
-- 🌱 I’m currently learning **Golang, Next JS, Typescripted framework**
+- 🌱 I’m currently learning **Golang, Any Node JS framework, Messaging tools**
 
 - 👯 I’m looking to collaborate on [E-Waras (IoT framework for realtime monitoring data)](https://github.com/EWARAS-EWSN)
 
