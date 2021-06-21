@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satriyoaji&label=Profile%20views&color=0e75b6&style=flat" alt="satriyoaji" /> </p>
 
-- 🔭 I’m currently working on (http://stucel.com/)[(Backend Engineer)]
+- 🔭 I’m currently working on (http://stucel.com/) [(as Backend Engineer)]
 
 - 🌱 I’m currently learning **Golang, Next JS, Typescripted framework**
 
