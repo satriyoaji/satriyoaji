@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Golang, Any Node JS framework, Messaging tools**
 
-- 👯 I’m looking to collaborate on [E-Waras (IoT framework for realtime monitoring data)](https://github.com/EWARAS-EWSN)
+- 👯 I’m looking to collaborate on [E-Waras (IoT framework for realtime health monitoring data)](https://github.com/EWARAS-EWSN)
 
 - 📫 How to reach me **satriyoaji27@gmail.com**
 
