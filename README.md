@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satriyo Aji</h1>
-<h3 align="center">A passionate froSoftware development enthusiast | Addicted to contribute in backend & frontend contribution of any projectsntend developer from India</h3>
+<h3 align="center">A passionate froSoftware development enthusiast | Addicted to contribute in backend & frontend contribution of any project</h3>
 
 - 🔭 I’m currently working on [PT. Stucel Media Kreatif (as a backend engineer)](http://stucel.com/)
 
