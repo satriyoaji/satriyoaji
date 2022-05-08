@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satriyo Aji</h1>
 <h3 align="center">A software development enthusiast | Addicted to contribute in backend & frontend contribution of any project</h3>
 
-- 🔭 I’m currently working on [PT. Stucel Media Kreatif (as a backend engineer)](http://stucel.com/)
+- 🔭 I’m currently working on [StyleTheory (as a backend engineer)](https://www.styletheory.co/id/)
 
 - 🌱 I’m currently learning **Golang, Any Node JS framework, Messaging tools**
 
