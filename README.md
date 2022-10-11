@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satriyo Aji</h1>
 <h3 align="center">A software development enthusiast | Addicted to contribute in backend & frontend contribution of any project</h3>
 
-- 🔭 I’m currently working as a Software Development Engineer at [Kargo](https://kargo.tech/)
+- 🔭 I’m currently working as a Software Development Engineer at [DANA Indonesia](https://www.dana.id/)
 
 - 🌱 I’m currently learning **Golang, Elixir, Any Node JS framework, CI/CD**
 
