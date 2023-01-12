@@ -24,3 +24,5 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satriyoaji&rank=UNKNOWN,SECRET,SSS,SS,S,AAA,AA,A,B" alt="satriyoaji" /></a> </p>
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satriyoaji&show_icons=true&theme=ondedark&locale=en&layout=compact" alt="satriyoaji" /></p>
