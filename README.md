@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Golang, any JVM framework, any Node JS framework, SmartContract & Web3, etc**
 
-- 👯 I’m looking to collaborate on [E-Waras (IoT framework for realtime health monitoring data)](https://github.com/EWARAS-EWSN)
+- 👯 I’m a one of creator and collaborator on [E-Waras (IoT framework for realtime health monitoring data)](https://github.com/EWARAS-EWSN) projects
 
 - 👨‍💻 All of my projects are available at [https://github.com/satriyoaji](https://github.com/satriyoaji)
 
